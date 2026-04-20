@@ -19,10 +19,16 @@ This is a USB hub I made on easyeda assembled using PCBA. I have an intake of us
 
 
 ## BOM
-| Item | Description                               | Quantity | Price | Link                | Supplier |
-|------|-------------------------------------------|----------|-------|---------------------|----------|
-| PCBA | To put all the components since they are tiny | 2        | 22.44 | https://jlcpcb.com | JLC PCB  |
-| PCB  | To put the components on                  | 5        | 4.00  | https://jlcpcb.com | JLC PCB  |
+
+| NAME | PURPOSE | QTY | TOTAL (USD) | LINK | DISTRIBUTOR |
+|------|---------|-----|-------------|------|-------------|
+| 3d printed case | To house the electronics | 1 | $0.00 | [Link](#) | Me I will print it |
+| PCBA | To put all the components since they are tiny | 2 | $34.02 | [Link](#) | Jlc Pcb |
+| PCB | To put the components on | 5 | $2.00 | [Link](#) | Jlc PCB |
+
+**TAX (USD):** 2.60  
+**SHIPPING (USD):** 10.2
+
 
 ## PCBA BOM 
 
