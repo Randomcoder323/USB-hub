@@ -1,0 +1,4 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"3d pritned case","to house the electronics",1,0.00,"https://github.com/Randomcoder323/USB-hub/tree/main/CAD","Me I will print it "
+"PCBA","To put all the components since they are tiny",2,34.02,"https://jlcpcb.com","Jlc Pcb"
+"PCB","To put the components on",5,2.00,"https://jlcpcb.com","Jlc PCB"
